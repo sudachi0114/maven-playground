@@ -23,3 +23,15 @@ $ mvn archetype:generate
             └── jp/sample
                 └── AppTest.java
 ```
+
+## build
+
+```
+$ mvn package
+```
+
+## execute
+
+```
+$ java -jar target/maven-playground-1.0-SNAPSHOT.jar
+```

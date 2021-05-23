@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# build
+/target
+
+# tempolary files
+*tmp*
