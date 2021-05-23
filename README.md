@@ -89,3 +89,16 @@ $ mvn clean
 ```
 $ mvn install
 ```
+
+## Links
+
+* [Mavenの使い方](https://qiita.com/soushiy/items/6095401054959ce5d1a5)
+* [【超初心者向け】Maven超入門](https://qiita.com/tarosa0001/items/e5667cfa857529900216)
+* [Java初心者のためのMaven入門](https://myenigma.hatenablog.com/entry/2019/11/10/084321)
+  * [Mavenとは何ぞや](https://qiita.com/ASHITSUBO/items/6c2aa8dd55043781c6b4)
+
+* `ERROR: メイン・マニフェスト属性がありません`
+  * [mavenでのjarファイル作成](https://skill-up-engineering.com/2015/10/22/post-856/)
+
+* To Be..??
+  * [【初めてのJava】Intellijでとりあえず動くものを作る](https://qiita.com/Esfahan/items/5dfd3a07cd30093092c5)
