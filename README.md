@@ -61,3 +61,31 @@ target/maven-playground-1.0-SNAPSHOT.jarにメイン・マニフェスト属性�
           </configuration>
         </plugin>
 ```
+
+## Other Commands
+
+* compile ( build without test ??)
+
+```
+$ mvn compile
+```
+
+* run test
+
+```
+$ mvn test
+```
+
+* build 結果のクリーン
+
+`./target` 以下をお掃除してくれる。
+
+```
+$ mvn clean
+```
+
+* ???
+
+```
+$ mvn install
+```
