@@ -36,7 +36,7 @@ $ mvn package
 $ java -jar target/maven-playground-1.0-SNAPSHOT.jar
 ```
 
-## WARNING
+### WARNING
 
 ```
 $ java -jar target/maven-playground-1.0-SNAPSHOT.jar
@@ -59,7 +59,5 @@ target/maven-playground-1.0-SNAPSHOT.jarにメイン・マニフェスト属性�
               </manifest>
             </archive>
           </configuration>
-
         </plugin>
-
 ```
